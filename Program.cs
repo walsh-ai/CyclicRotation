@@ -24,6 +24,10 @@ public static partial class Program {
     /// <param name="k">Number of rotations to perform</param>
     /// <returns></returns>
     public static int[] Rotate(int[] a, int k) {
+        // Base cases 
+        if (a.Length < 2) 
+            return a; 
+
         int temp, prev; 
         while (k-- > 0) {
             prev = a[1]; 
