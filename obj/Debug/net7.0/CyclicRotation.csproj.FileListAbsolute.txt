@@ -1,0 +1,14 @@
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.AssemblyInfo.cs
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\bin\Debug\net7.0\CyclicRotation.exe
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\bin\Debug\net7.0\CyclicRotation.deps.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\bin\Debug\net7.0\CyclicRotation.runtimeconfig.json
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\bin\Debug\net7.0\CyclicRotation.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\bin\Debug\net7.0\CyclicRotation.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\refint\CyclicRotation.dll
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.pdb
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\CyclicRotation.genruntimeconfig.cache
+C:\Users\walsh\OneDrive\Documents\_wkspace\csharp_prep\CyclicRotation\obj\Debug\net7.0\ref\CyclicRotation.dll
